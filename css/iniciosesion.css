@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient();
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;   
+   }
+   .container{
+    background-color: rgb(0, 174, 255);
+       max-width: fit-content;
+       margin-inline: auto;
+       margin-top: 150px;
+   }

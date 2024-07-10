@@ -1,0 +1,11 @@
+body{
+ background: linear-gradient(rgb(152, 167, 245),rgb(92, 79, 212) 5%,rgb(152, 167, 245));
+ background-size: cover;
+ background-position: center;
+ background-attachment: fixed;   
+}
+.container{
+    max-width: fit-content;
+    margin-inline: auto;
+    margin-top: auto;
+}
